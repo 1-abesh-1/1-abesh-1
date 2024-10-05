@@ -1,26 +1,21 @@
-![]("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif")
+![image](https://github.com/user-attachments/assets/6cfaac7d-1e1e-4364-a0d8-152c3e2fa267)
+
 
 
 <h1> Hi there, I'm Sadman Sakib Abesh!</h1>
 
 I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC University. I have a passion for programming and a keen interest in JavaScript and Java. I'm always eager to learn new technologies and improve my skills!
 
+![image](https://github.com/user-attachments/assets/be677d7e-f758-49d4-82d9-ccf37083a34b)
 
-## Skills
-
-### Languages
+### Skills
+#### language/framework/library/environment
 ![image](https://github.com/user-attachments/assets/5719c16b-ed4f-49f7-a004-4dd77b1bef4b)
-
-
-### Frameworks/Libraries
 ![image](https://github.com/user-attachments/assets/3e6d6bea-d481-4233-8b0e-641b284b2c5f)
-
-
-### Databases
-
+![image](https://github.com/user-attachments/assets/32f884fe-2beb-485d-b88a-9fae0841ca83)
 
 ### Technologies
-![image](https://github.com/user-attachments/assets/d310ce5e-bbd3-452c-9280-d4912fb72a4c)
+
 ![image](https://github.com/user-attachments/assets/7fdaab2b-4f90-4800-8e5e-b75f8be5c2c2)
 
 
