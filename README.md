@@ -9,60 +9,20 @@ I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC U
 ## Skills
 
 ### Languages
-<p align="left">
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-    </a>
-    &nbsp; <!-- Gap -->
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-[](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
-    </a>
-</p>
+![image](https://github.com/user-attachments/assets/5719c16b-ed4f-49f7-a004-4dd77b1bef4b)
+
 
 ### Frameworks/Libraries
-<p align="left">
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://socket.io/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" width="40" height="40"/>
-    </a>
-</p>
+![image](https://github.com/user-attachments/assets/3e6d6bea-d481-4233-8b0e-641b284b2c5f)
+
 
 ### Databases
-<p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-</p>
+
 
 ### Technologies
-<p align="left">
-    <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-        <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
-    </a>
-</p>
+![image](https://github.com/user-attachments/assets/d310ce5e-bbd3-452c-9280-d4912fb72a4c)
+![image](https://github.com/user-attachments/assets/7fdaab2b-4f90-4800-8e5e-b75f8be5c2c2)
+
 
 ## GitHub Stats
 
