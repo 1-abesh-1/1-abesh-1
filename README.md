@@ -5,8 +5,8 @@
 <h1> Hi there, I'm Sadman Sakib Abesh!</h1>
 
 I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC University. I have a passion for programming and a keen interest in JavaScript and Java. I'm always eager to learn new technologies and improve my skills!
-
-![image](https://github.com/user-attachments/assets/be677d7e-f758-49d4-82d9-ccf37083a34b)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
 
 ### Skills
 #### language/framework/library/environment
