@@ -24,6 +24,11 @@ I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC U
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-abesh-1&layout=compact&theme=gruvbox&hide_border=true&border_radius=10&card_width=800&card_height=180)
 ![GitHub Streak](https://streak-stats.demolab.com?user=1-abesh-1&theme=gruvbox&hide_border=true&border_radius=10&card_width=800&card_height=180)
 
+### recent projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1-abesh-1&repo=react.js-quize-app&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10&card_width=800&card_height=180)](https://github.com/1-abesh-1/react.js-quize-app)
+
+
+
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/sadman-sakib-abesh-677794214/" target="_blank">
@@ -36,4 +41,5 @@ I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC U
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss tech!
 
 <center><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"></center>
+
 
