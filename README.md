@@ -25,7 +25,7 @@ I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC U
 ![GitHub Streak](https://streak-stats.demolab.com?user=1-abesh-1&theme=gruvbox&hide_border=true&border_radius=10&card_width=800&card_height=180)
 
 ## recent projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1-abesh-1&repo=react.js-quize-app&show_icons=true&theme=shadow_red&hide_border=true&border_radius=10&card_width=800&card_height=180)](https://github.com/1-abesh-1/react.js-quize-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1-abesh-1&repo=react.js-quize-app&show_icons=true&theme=shadow_red&border_radius=10&card_width=800&card_height=180)](https://github.com/1-abesh-1/react.js-quize-app)
 
 
 
