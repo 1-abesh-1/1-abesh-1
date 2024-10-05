@@ -14,9 +14,9 @@ I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC U
 
 ## 📈 GitHub Stats
 
-![Sadman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1_abesh_1&show_icons=true&theme=radical)
+![Sadman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-abesh-1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1_abesh_1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-abesh-1&layout=compact&theme=radical)
 
 ## 🌍 Connect with me
 - [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
