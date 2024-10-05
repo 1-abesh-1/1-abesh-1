@@ -1,3 +1,6 @@
+![Cover Image]("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif")
+
+
 <h1> Hi there, I'm Sadman Sakib Abesh!</h1>
 
 I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC University. I have a passion for programming and a keen interest in JavaScript and Java. I'm always eager to learn new technologies and improve my skills!
