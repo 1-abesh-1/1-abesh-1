@@ -10,15 +10,11 @@ I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC U
 <br><br>
 
 ### Skills
-#### language/framework/library/environment
-![image](https://github.com/user-attachments/assets/5719c16b-ed4f-49f7-a004-4dd77b1bef4b)
-![image](https://github.com/user-attachments/assets/3e6d6bea-d481-4233-8b0e-641b284b2c5f)
-![image](https://github.com/user-attachments/assets/32f884fe-2beb-485d-b88a-9fae0841ca83)
-
-### Technologies
-
-![image](https://github.com/user-attachments/assets/7fdaab2b-4f90-4800-8e5e-b75f8be5c2c2)
-
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50px"/>
 
 ## GitHub Stats
 
