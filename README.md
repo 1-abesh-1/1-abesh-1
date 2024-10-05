@@ -1,23 +1,23 @@
-# 👋 Hi there, I'm Sadman Sakib Abesh!
+<h1> Hi there, I'm Sadman Sakib Abesh!</h1>
 
 I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC University. I have a passion for programming and a keen interest in JavaScript and Java. I'm always eager to learn new technologies and improve my skills!
 
-## 🚀 Skills
+<h2> Skills</h2>
 - **Languages**: JavaScript, Java
-- **Frameworks/Libraries**: [Insert any frameworks or libraries you're familiar with, e.g., React, Node.js]
-- **Tools & Technologies**: [Insert any tools or technologies, e.g., Git, Docker, etc.]
-- **Databases**: [Insert any databases you're familiar with, e.g., MySQL, MongoDB]
+- **Frameworks/Libraries**: [REACT.JS, EXPRESS.JS, SOCKET.IO]
+- **Tools & Technologies**: [ Git, Netlify, Firebase, Cloudflare]
+- **Databases**: [MySQL, MongoDB]
 
-## 🌱 Currently Learning
+<h2>Currently Learning</h2>
 - [Insert any technologies or concepts you're currently learning]
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Sadman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Sadman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-abesh-1&show_icons=true&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-abesh-1&layout=compact&theme=gruvbox)
 
-## 🌍 Connect with me
+## Connect with me
 
 <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
