@@ -1,11 +1,12 @@
-![image](https://github.com/user-attachments/assets/6cfaac7d-1e1e-4364-a0d8-152c3e2fa267)
+<img src="https://github.com/user-attachments/assets/6cfaac7d-1e1e-4364-a0d8-152c3e2fa267" width="400px"/>
 
 
 
 <h1> Hi there, I'm Sadman Sakib Abesh!</h1>
 
 I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC University. I have a passion for programming and a keen interest in JavaScript and Java. I'm always eager to learn new technologies and improve my skills!
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<center><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"></center>
 <br><br>
 
 ### Skills
