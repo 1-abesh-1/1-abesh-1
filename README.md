@@ -40,6 +40,6 @@ I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC U
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss tech!
 
-<center><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"></center>
+<center><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100%"></center>
 
 
