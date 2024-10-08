@@ -17,7 +17,7 @@ I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC U
 ### cp
 
 
-<img src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" width="50px"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqyElfxF4r4_iMO4NPVIkEuoqi2-5Tz7tmFHFVTFA8SZPIfPQ5uUA_lA7BAGPdYThBbK8&usqp=CAU" width="50px"/>![image](https://github.com/user-attachments/assets/4e00bcc0-c1cc-40ff-9a8e-2807c612e1b6&height=50px)
+<img src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" width="50px"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqyElfxF4r4_iMO4NPVIkEuoqi2-5Tz7tmFHFVTFA8SZPIfPQ5uUA_lA7BAGPdYThBbK8&usqp=CAU" width="50px"/><img src="https://github.com/user-attachments/assets/4e00bcc0-c1cc-40ff-9a8e-2807c612e1b6" width="50px"/>
 
 
 
