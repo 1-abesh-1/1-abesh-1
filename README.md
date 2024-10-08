@@ -19,7 +19,6 @@ I'm an undergraduate student in Computer Science and Engineering (CSE) at BRAC U
 
 <img src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" width="50px"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqyElfxF4r4_iMO4NPVIkEuoqi2-5Tz7tmFHFVTFA8SZPIfPQ5uUA_lA7BAGPdYThBbK8&usqp=CAU" width="50px"/>
 
-[//]: <> (<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50px"/>
 
 
 ## GitHub Stats
