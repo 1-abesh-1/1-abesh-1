@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/1-abesh-1/image/refs/heads/main/github-header-image%20(2).png" />
+<img src="https://raw.githubusercontent.com/1-abesh-1/image/refs/heads/main/github-header-image%20(2).png" width="100%"/>
 
 
 
